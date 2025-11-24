@@ -1,0 +1,5 @@
+{
+  "name": "AdCreative AI Analyzer",
+  "description": "An intelligent tool for analyzing Meta and Google Ad creatives. Upload your image to receive a comprehensive breakdown of visibility, design, and appeal compared to industry standards, powered by Gemini.",
+  "requestFramePermissions": []
+}
